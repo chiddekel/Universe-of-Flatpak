@@ -7,7 +7,6 @@ Flatpak can be understood through a small number of key concepts. It is
 useful to be familiar with these before learning about how to use Flatpak
 from the command line, or using it to build applications.
 
-![This is an image](https://raw.githubusercontent.com/chiddekel/Universe-of-Flatpak/main/images/diagram.svg)
 
 Runtimes
 --------
